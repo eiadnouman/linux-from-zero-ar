@@ -121,7 +121,7 @@ GNU Tools (Stallman)  +  Linux Kernel (Torvalds) = GNU/Linux
 | Ubuntu | 2004 | سطح المكتب والمبتدئين والسيرفرات | Canonical |
 | Arch Linux | 2002 | المستخدمين المتقدمين والتخصيص | مجتمع |
 | Kali Linux | 2013 | الأمن السيبراني واختبار الاختراق | Offensive Security |
-| CentOS Stream | 2021 | بيئات قريبة من RHEL | Red Hat |
+| CentOS Stream | 2019 | بيئات قريبة من RHEL | Red Hat |
 
 ---
 
