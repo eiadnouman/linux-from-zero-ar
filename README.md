@@ -1,5 +1,8 @@
 # 🐧 دليل لينكس الشامل — من الصفر
 
+![Linux](https://img.shields.io/badge/Linux-Guide-blue)
+![Arabic](https://img.shields.io/badge/Language-Arabic-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 > **ملاحظة:**  كل فصل مبني على اللي قبله.
 > 
 
