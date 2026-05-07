@@ -35,7 +35,7 @@ Timeline:
 
 ---
 
-## 1.2 ريتشارد ستالمان و ال Open Source
+## 1.2 ريتشارد ستالمان و ال Free Software
 
 في **1983**، مبرمج اسمه **Richard Stallman** في MIT كان زعلان جداً — ليه؟
 
