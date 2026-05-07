@@ -1047,7 +1047,7 @@ Minute  Hour  Day_of_Month  Month  Day_of_Week  Command
 0 3 * * * rm -rf /tmp/*
 
 # Example: Daily backup
-30 2 * * * tar -czf /backup/home_$(date +%Y%m%d).tar.gz /home/eiad/ف
+30 2 * * * tar -czf /backup/home_$(date +%Y%m%d).tar.gz /home/eiad/
 ```
 
 ---
