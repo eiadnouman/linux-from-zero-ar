@@ -113,14 +113,15 @@ GNU Tools (Stallman)  +  Linux Kernel (Torvalds) = GNU/Linux
 
 | التوزيعة | سنة الإنشاء | مناسبة لـ | الشركة/المجتمع |
 | --- | --- | --- | --- |
-| **Slackware** | 1993 | المحترفين القدام | Patrick Volkerding |
-| **Debian** | 1993 | الاستقرار والسيرفرات | مجتمع مفتوح |
-| **Red Hat** | 1994 | الشركات والمؤسسات | Red Hat (IBM) |
-| **Ubuntu** | 2004 | المبتدئين، سطح المكتب | Canonical |
-| **Arch** | 2002 | المتقدمين، التخصيص | مجتمع |
-| **Kali** | 2013 | الأمن السيبراني | Offensive Security |
-| **Fedora** | 2003 | المطورين | Red Hat |
-| **CentOS/RHEL** | 2004 | سيرفرات الشركات | Red Hat |
+| Slackware | 1993 | المستخدمين القدام والمحترفين | Patrick Volkerding |
+| Debian | 1993 | الاستقرار والسيرفرات | مجتمع مفتوح |
+| Red Hat Linux | 1994 | الشركات (تاريخيًا) | Red Hat |
+| RHEL | 2002 | المؤسسات والسيرفرات | Red Hat (IBM) |
+| Fedora | 2003 | المطورين وأحدث التقنيات | Red Hat |
+| Ubuntu | 2004 | سطح المكتب والمبتدئين والسيرفرات | Canonical |
+| Arch Linux | 2002 | المستخدمين المتقدمين والتخصيص | مجتمع |
+| Kali Linux | 2013 | الأمن السيبراني واختبار الاختراق | Offensive Security |
+| CentOS Stream | 2021 | بيئات قريبة من RHEL | Red Hat |
 
 ---
 
