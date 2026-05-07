@@ -3,7 +3,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Guide-blue)
 ![Arabic](https://img.shields.io/badge/Language-Arabic-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-📖 **نسخة القراءة الأفضل على Notion:**  > [Read on Notion](https://www.notion.so/35862bea50cd8040811de2759ffbdc0e)
+📖 **نسخة القراءة الأفضل على Notion:**   [Read on Notion](https://www.notion.so/35862bea50cd8040811de2759ffbdc0e)
 > **ملاحظة:**  كل فصل مبني على اللي قبله.
 > 
 
