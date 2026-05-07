@@ -98,7 +98,6 @@ GNU Tools (Stallman)  +  Linux Kernel (Torvalds) = GNU/Linux
         ↓                        ↓
                
         ↓                        ↓
-        
 									                                                                      																													        قلب النظام                    أدوات وبرامج
       
 ```
